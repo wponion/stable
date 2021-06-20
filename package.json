@@ -31,7 +31,7 @@
     "easy-gulp-tasker": "^1.0.15",
     "jquery-serializejson": "^3.2.1",
     "jquery-validation": "^1.19.3",
-    "sweetalert2": "^10.15.6",
+    "sweetalert2": "^11.0.18",
     "tippy.js": "^6.3.1",
     "vsp-js-helper": "^1.0.32",
     "wordpress-js-ports": "^1.0.11"
